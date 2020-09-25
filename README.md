@@ -20,3 +20,5 @@ This is a Python crawler collection for simple data crawlers. All crawlers are s
 爬取猫途鹰：<https://www.tripadvisor.cn> 上面长隆旗下的相关产品评论
 ### 虎牙
 爬取虎牙：<https://www.huya.com> 王者荣耀主播即时数据，包括房间号和人气值
+### 知乎热榜
+爬取知乎热榜：<https://www.zhihu.com/billboard> 按分钟爬取知乎热榜上面的榜单信息和热度，并进行时间序列可视化，可以有效监测到知乎热榜人为“降热度”的情况
